@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo id
-=======
-id 
->>>>>>> 524aa9ee0cff8d553f34ff44fe7e84a222ed92c5
+whoami
+
