@@ -1,2 +1,2 @@
 #!/bin/bash
-sort "Hello, World" | cat -e 
+chmod -v +x "Hello, World"
